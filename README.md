@@ -1,2 +1,3 @@
 # hallo-world
-hello world proggram
+hello world program
+I'm Damian
